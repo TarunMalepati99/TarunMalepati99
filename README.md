@@ -6,5 +6,3 @@ I am graduate student in IU
 - 📫 How to reach me: LinkedIn/Gmail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch a movie every week
-
- 
