@@ -1,7 +1,6 @@
 Hey, I'm Tarun 👋
 
 I build AI systems that solve real-world constraints — from assistive vision to autonomous safety and reinforcement learning optimization.
-
 🚀 Flagship Project
 🧠 NAPT — Neural Array for Perceptual Text
 
